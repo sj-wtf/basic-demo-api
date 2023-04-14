@@ -1,3 +1,3 @@
 # Getting started
-`brew install maven`
+`brew install sbt`
 
